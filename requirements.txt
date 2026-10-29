@@ -1,8 +1,6 @@
-streamlit
+streamlit>=1.30.0
+numpy<2.0.0
 pandas
-numpy
 scikit-learn
 gensim
-requests
-beautifulsoup4
-joblib 
+joblib
