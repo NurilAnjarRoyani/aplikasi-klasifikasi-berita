@@ -3,4 +3,6 @@ pandas
 numpy
 scikit-learn
 gensim
-joblib
+requests
+beautifulsoup4
+joblib 
